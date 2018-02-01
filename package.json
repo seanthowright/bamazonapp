@@ -1,0 +1,20 @@
+{
+  "name": "bamazonapp",
+  "version": "1.0.0",
+  "description": "Amazon Style CLI",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "eslint": "^4.16.0",
+    "inquirer": "^5.0.1",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
