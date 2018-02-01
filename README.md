@@ -1,0 +1,2 @@
+# bamazonapp
+Amazonesque CLI App
